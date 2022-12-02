@@ -8,7 +8,7 @@ export default ({ value, log }: any) => {
     <>
       <div className="self-node">
         <i
-          className="iconfont spicon-jiantou arrow"
+          className="iconfont icon-jiantou arrow"
           onClick={() => {
             setExpand(!expand);
           }}
