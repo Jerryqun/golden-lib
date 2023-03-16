@@ -36,3 +36,4 @@ $ cnpm run doctor
 ## LICENSE
 
 MIT
+test
